@@ -50,6 +50,14 @@ It allows users to list, explore, and review vacation stays with a secure and mo
 - Clean and scalable project structure
 - Follows Model–View–Controller pattern
 
+---
+## 📸 Screenshots
+
+### 🏠 Explore Listings Page
+![Explore Listings](explore-page.png)
+
+### ➕ Create New Listing Page
+![Create Listing](create-listing.png)
 
 
 
