@@ -1,14 +1,73 @@
-#WanderLust
+🌍 WanderLust – Vacation Rental Marketplace (MERN Stack)
 
-WanderLust is a cutting-edge rental marketplace web application crafted using the MERN stack. With seamless integration of third-party tools like Mapbox and Cloudinary, WanderLust offers a secure and contemporary user experience for listing, discovering, and booking vacation stays.
+WanderLust is a full-stack vacation rental marketplace web application built using the MERN stack. It enables users to list, discover, and book vacation stays with a modern UI, secure authentication, and interactive maps.
 
-#Key Features:
+The project integrates powerful third-party services like Mapbox for location visualization and Cloudinary for secure image uploads, ensuring a smooth and scalable user experience.
 
-🔐 User Authentication: Secure login, logout, and profile management with Passport.js
-🏠 Listings Management: Create, update, and delete property listings effortlessly
-🌍 Interactive Maps: Real-time location visualization powered by Mapbox
-📝 Review System: Share and view experiences through user reviews
-🖼️ Image Uploads: Securely upload multiple images with Cloudinary
-🛡️ Security Enhancements: Data integrity and protection with encryption and validation
-🧱 MVC Architecture: Scalable and maintainable code structure following the MVC pattern
+🚀 Tech Stack
+
+Frontend: React, Bootstrap
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Authentication: Passport.js
+
+Cloud Services:
+
+Mapbox (Maps & Location)
+
+Cloudinary (Image Storage)
+
+✨ Key Features
+🔐 User Authentication
+
+Secure login & logout
+
+User registration and profile management
+
+Session handling using Passport.js
+
+🏠 Listings Management
+
+Create new property listings
+
+Edit and delete existing listings
+
+View all available stays
+
+🌍 Interactive Maps
+
+Real-time location display for listings
+
+Powered by Mapbox
+
+📝 Review System
+
+Users can add reviews for properties
+
+View feedback from other users
+
+🖼️ Image Uploads
+
+Upload multiple images per listing
+
+Secure image storage with Cloudinary
+
+🛡️ Security Enhancements
+
+Data validation & sanitization
+
+Encrypted user credentials
+
+Secure routes and protected actions
+
+🧱 MVC Architecture
+
+Clean and scalable codebase
+
+Proper separation of concerns (Model–View–Controller)
+
+
 
