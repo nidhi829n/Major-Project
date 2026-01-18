@@ -1,73 +1,57 @@
-🌍 WanderLust – Vacation Rental Marketplace (MERN Stack)
+# 🌍 WanderLust
 
-WanderLust is a full-stack vacation rental marketplace web application built using the MERN stack. It enables users to list, discover, and book vacation stays with a modern UI, secure authentication, and interactive maps.
+WanderLust is a full-stack vacation rental marketplace web application built using the **MERN stack**.  
+It allows users to list, explore, and review vacation stays with a secure and modern user experience.
 
-The project integrates powerful third-party services like Mapbox for location visualization and Cloudinary for secure image uploads, ensuring a smooth and scalable user experience.
+---
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
-Frontend: React, Bootstrap
+- **Frontend:** React, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** Passport.js
+- **Third-Party Services:**
+  - Mapbox (Maps & Location)
+  - Cloudinary (Image Uploads)
 
-Backend: Node.js, Express.js
+---
 
-Database: MongoDB
+## ✨ Key Features
 
-Authentication: Passport.js
+### 🔐 User Authentication
+- Secure user login and logout
+- User registration and profile management
+- Authentication using Passport.js
 
-Cloud Services:
+### 🏠 Listings Management
+- Create new property listings
+- Edit and delete existing listings
+- View all available stays
 
-Mapbox (Maps & Location)
+### 🌍 Interactive Maps
+- Display property locations on maps
+- Real-time map rendering using Mapbox
 
-Cloudinary (Image Storage)
+### 📝 Review System
+- Users can add reviews for listings
+- View reviews from other users
 
-✨ Key Features
-🔐 User Authentication
+### 🖼️ Image Uploads
+- Upload multiple images per listing
+- Secure image storage using Cloudinary
 
-Secure login & logout
+### 🛡️ Security Features
+- Data validation and sanitization
+- Encrypted passwords
+- Protected routes and secure sessions
 
-User registration and profile management
+### 🧱 MVC Architecture
+- Clean and scalable project structure
+- Follows Model–View–Controller pattern
 
-Session handling using Passport.js
+---
 
-🏠 Listings Management
-
-Create new property listings
-
-Edit and delete existing listings
-
-View all available stays
-
-🌍 Interactive Maps
-
-Real-time location display for listings
-
-Powered by Mapbox
-
-📝 Review System
-
-Users can add reviews for properties
-
-View feedback from other users
-
-🖼️ Image Uploads
-
-Upload multiple images per listing
-
-Secure image storage with Cloudinary
-
-🛡️ Security Enhancements
-
-Data validation & sanitization
-
-Encrypted user credentials
-
-Secure routes and protected actions
-
-🧱 MVC Architecture
-
-Clean and scalable codebase
-
-Proper separation of concerns (Model–View–Controller)
 
 
 
