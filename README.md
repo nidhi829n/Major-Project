@@ -59,6 +59,9 @@ It allows users to list, explore, and review vacation stays with a secure and mo
 ### ➕ Create New Listing Page
 ![Create Listing](create-listing.png)
 
+### ➕ Create New Listing Page
+![Create Listing](map.png)
+
 
 
 
